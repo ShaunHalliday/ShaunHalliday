@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShaunHalliday, 
-- 👀 I’m interested in CSS Animation, React, HTML, CSS/SASS and just building and learning more and more
-- 🌱 I’m currently learning about APIs, Typescript and just as much React JS as I can
-- 💞️ I’m looking to collaborate on anything to help me grow my skillset and help others
-- 📫 How to reach me - through my site www.shaunhalliday.co.uk or via LinkedIn (www.linkedin.com/in/shaun-halliday-5001a6b2)
+- 👀 I’m interested in user research, interaction design, and front-end development in a UX Engineer capacity. Also, in a frontend software engineer capacity I am interested in CSS Animation, React Typescript, HTML, CSS/SASS and just building and learning more and more
+- 🌱 I’m currently learning about APIs, Typescript and just as much React JS as I can - as well as accessibility and responsive design methodology
+- 💞️ I’m looking to collaborate on anything to help me grow my skillset and help others - mainly in a UX Engineer capacity
+- 📫 How to reach me - via LinkedIn (www.linkedin.com/in/shaun-halliday-5001a6b2). Personal site in development currently
 
 
 <!---
